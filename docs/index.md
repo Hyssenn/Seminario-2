@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Seminario 2 - Uso de la web por personas con disfuncionalidad
 
-You can use the [editor on GitHub](https://github.com/Hyssenn/Seminario-2/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Realizamos diferentes búsquedas en la web de la ULL usando herramientas como el ChromeVox y el navegador Lynx. Estás búsquedas se dividieron en:
+* Consulta del calendario académico.
+* Búsqueda de los horarios de la asignatura de usabilidad.
+* Inicio de los trámites de matriculación.
+* Consulta de las notas del primer cuatrimestre.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### ChromeVox
 
-### Markdown
+  Con esta extensión de Chrome vemos que muchos elementos de la pantalla son descritos por voz y la navegación se hace con el teclado, esto produce que la información sea excesiva, pues en muchas ocasiones lo que describe en pantalla no proporciona ningún tipo de utilidad para el usuario. Por otro lado, desplazarse por la web con los atajos del teclado hace que esta tarea sea compleja imposibilitando en algunos casos poder entrar en ciertos enlaces de interés. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Navegador Lynx
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hyssenn/Seminario-2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  La navegación con esta herramienta es bastante sencilla e intuitiva pese a ser un navegador con solo texto, sin embargo, no permite acceder a muchas de las funcionalidades de hoy en día pues muchas páginas se realizan usando Java Script, el cuál no es soportado por Lynx y las páginas muy complejas (como el caso de la ULL) resulta muy difícil interpretar la información que se muestra por pantalla
